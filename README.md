@@ -1,5 +1,3 @@
 #Read Me File
 
-This is a sample project
-
-I added this file on my Windows machine
+Pdf I am studying to learn statisics with r.Baseline for data science.
